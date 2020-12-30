@@ -170,7 +170,7 @@ You can clone, download or fork this repo.
 
 ### 3. Change parameter
 
-Mainly change the parameters at file `_config.yml` and use your own `favicon.ico`.
+Mainly change the parameters at file `_config.yml` and use your own `icon.png`.
 
 #### Basic info
 
@@ -367,7 +367,7 @@ Thanks these friends!!!
 * `[^]` Optimized code, Extracting common code to `comments.html`
 * `[+]` Add Google Analysis and Baidu Statistics
 * `[+]` Update README, add usage
-* `[+]` Add `favicon.ico`
+* `[+]` Add `icon.png`
 * `[^]` Fix bug at contents
 * `[^]` Change the content scroll bar CSS style（Only for `webkit` browser kernel）
 * `[^]` Change tag a color at demo page
